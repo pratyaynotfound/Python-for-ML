@@ -27,7 +27,7 @@
     ```
     
 
-# Type Operator
+# Type of a Operator
 
 ```python
 print(type(4))
@@ -35,7 +35,7 @@ print(type(5.8))
 print(type("Hello"))
 ```
 
-![Operator Types](Operators/op.png)
+![Operator Types](op.png)
 
 # Type Casting
 
