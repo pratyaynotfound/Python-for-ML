@@ -1,4 +1,4 @@
-# Many Arguments
+# Variable no of Arguments
 
 ### In Python, you can specify a variable number of arguments when calling a function by adding `*` or `**` to the beginning of parameter names in the function definition.
 
