@@ -8,8 +8,8 @@
 - Division(/)
 - Modulo(%)
 - Power(**)
-    
-    **The operator that can be used to perform the exponent arithmetic in Python is **.**
+
+  This operator can be used to perform the exponent arithmetic in Python.
     
     ```python
     x = (a**3) #this means x^3
