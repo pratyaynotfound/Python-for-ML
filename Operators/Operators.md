@@ -35,7 +35,7 @@ print(type(5.8))
 print(type("Hello"))
 ```
 
-![Operator Types](Operators%203ac146a8840247e799dfa3f6c21b99f3/Untitled.png)
+![Operator Types](Operators/op.png)
 
 # Type Casting
 
